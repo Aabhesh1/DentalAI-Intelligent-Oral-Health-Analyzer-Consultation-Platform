@@ -1,4 +1,4 @@
-# DentalAI-Intelligent-Oral-Health-Analyzer-Consultation-Platform# DentalAI: Intelligent Oral Health Analyzer & Consultation Platform
+# DentalAI-Intelligent-Oral-Health-Analyzer-Consultation-Platform
 
 DentalAI is an AI-powered web application designed to provide quick dental assessments, 
 generate intelligent reports based on patient symptoms, and connect patients with dentists 
